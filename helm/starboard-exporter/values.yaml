@@ -3,7 +3,7 @@ registry:
   domain: docker.io
 image:
   name: "giantswarm/starboard-exporter"
-  tag: "0.3.3"
+  tag: "0.4.1"
 pod:
   user:
     id: 1000
