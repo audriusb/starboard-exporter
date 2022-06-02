@@ -3,12 +3,12 @@ entries:
   starboard-exporter:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2022-06-02T14:36:47.572175844+03:00"
+    created: "2022-06-02T14:48:38.6939625+03:00"
     description: A Helm chart for starboard-exporter
-    digest: d4a6070c6f8d0a3309f02826728c81cd6c7bcae2ab35bb0e0df84a8e3b2cd4d2
+    digest: 39eee846befca8b201e9eb786fff1eb8d01fa874e73b33b6eee17458b5006d83
     home: https://github.com/giantswarm/starboard-exporter
     name: starboard-exporter
     urls:
     - starboard-exporter-0.4.1.tgz
     version: 0.4.1
-generated: "2022-06-02T14:36:47.571268091+03:00"
+generated: "2022-06-02T14:48:38.693015004+03:00"
